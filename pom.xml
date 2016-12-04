@@ -67,8 +67,8 @@
     <properties>
         <!-- project / plugin related properties -->
         <github.global.server>github</github.global.server>
-        <maven.compiler.target>1.8</maven.compiler.target>
-        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.7</maven.compiler.target>
+        <maven.compiler.source>1.7</maven.compiler.source>
         <plugin.version.github.site>0.12</plugin.version.github.site>
         <plugin.version.gwt.maven>1.0-rc-6</plugin.version.gwt.maven>
         <plugin.version.processor.plugin>3.1.0</plugin.version.processor.plugin>
